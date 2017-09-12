@@ -1,0 +1,4 @@
+Osaan:
+Opin avaamaan tekstitiedostoja muokattavaksi.
+
+En osaa:
