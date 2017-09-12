@@ -1,0 +1,2 @@
+# hubirepo
+Githubin paikallinen repositorio
